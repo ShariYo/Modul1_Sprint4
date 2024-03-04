@@ -10,3 +10,5 @@ def cleaner(df):
     print(f"Is there any duplicates?: {df_duplicates}")
     print(f"Is there any NaN numbers?: {df_nan}")
     print(f"Is there any empty cells?: {df_empty}")
+
+    return df

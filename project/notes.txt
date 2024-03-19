@@ -1,2 +1,0 @@
-region file - what's the academy, elderly population, elderly alone ratios?
-seoul_floating - what's the fp_num?
